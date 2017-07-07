@@ -7,6 +7,12 @@ Including below tools.
 - `make`
 - `protobuf`
 
+## How to Use
+
+```bash
+docker pull ringo/sbt
+```
+
 ## Status
 - ![stars](https://img.shields.io/docker/stars/ringo/sbt.svg?colorA=30B8E9&colorB=FFD32E)
 - ![pulls](https://img.shields.io/docker/pulls/ringo/sbt.svg?colorA=30B8E9)
